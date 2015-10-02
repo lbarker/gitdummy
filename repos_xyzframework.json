@@ -1,0 +1,53 @@
+[
+    {
+        "target_repo"       : ["/Users/laurenbarker/Documents/htdocs/xyz_websites/xyz_framework"],
+        "target_email"      : ["lauren@mathtv.com"],
+        "dummy_repo"        : "/Users/laurenbarker/Documents/MathTV/web_development/xyz_framework_commit_history",
+        "dummy_repo_data"   : "/Users/laurenbarker/Documents/MathTV/web_development/xyz_framework_commit_history/data",
+        "dummy_email"       : "lauren@mathtv.com",
+        "dummy_name"        : "Lauren Barker",
+        "dummy_readme"      : "This public repository reflects the commits from a the xyz_framework private repo (minus the actual code)",
+        "dummy_ext"         : ".php",
+        "dummy_code"        : "'use strict';",
+        "hide_commits"      : false,
+        "random_file_name"  : false,
+        "auto_push"         : true,
+        "force"             : true,
+        "remote"            : "https://github.com/lbarker/xyz_framework_commit_history"
+    }
+]
+
+[
+    {
+        "target_repo"       : ["/Users/laurenbarker/Documents/htdocs/xyz_websites/www.xyztextbooks.dev"],
+        "target_email"      : ["lauren@mathtv.com"],
+        "dummy_repo"        : "/Users/laurenbarker/Documents/MathTV/web_development/xyztextbooks_webroot_commit_history",
+        "dummy_repo_data"   : "/Users/laurenbarker/Documents/MathTV/web_development/xyztextbooks_webroot_commit_history/data",
+        "dummy_email"       : "lauren@mathtv.com",
+        "dummy_name"        : "Lauren Barker",
+        "dummy_readme"      : "This public repository reflects the commits from a the xyztextbooks web root private repo (minus the actual code)",
+        "dummy_ext"         : ".js",
+        "dummy_code"        : "'use strict';",
+        "hide_commits"      : false,
+        "random_file_name"  : false,
+        "auto_push"         : true,
+        "force"             : true,
+        "remote"            : "https://github.com/lbarker/xyztextbooks_webroot_commit_history"
+    },
+    {
+        "target_repo"       : ["/Users/laurenbarker/Documents/htdocs/xyz_websites/schools.mathtv.dev"],
+        "target_email"      : ["lauren@mathtv.com"],
+        "dummy_repo"        : "/Users/laurenbarker/Documents/MathTV/web_development/mathtv_database_layer_commit_history",
+        "dummy_repo_data"   : "/Users/laurenbarker/Documents/MathTV/web_development/mathtv_database_layer_commit_history/data",
+        "dummy_email"       : "lauren@mathtv.com",
+        "dummy_name"        : "Lauren Barker",
+        "dummy_readme"      : "This public repository reflects the commits from a the MathTV and XYZ Textbooks database layer repo (minus the actual code)",
+        "dummy_ext"         : ".php",
+        "dummy_code"        : "'use strict';",
+        "hide_commits"      : false,
+        "random_file_name"  : false,
+        "auto_push"         : true,
+        "force"             : true,
+        "remote"            : "https://github.com/lbarker/mathtv_database_layer_commit_history"
+    }
+]
